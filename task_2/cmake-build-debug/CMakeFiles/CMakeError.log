@@ -1,0 +1,17 @@
+Determining if the include file pthread.h exists failed with the following output:
+Change Dir: C:/Users/Arina/c++_3kurs/plus-plus_5sem/task_2/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/MinGW/bin/make.exe -f Makefile cmTC_80597/fast && C:/MinGW/bin/make.exe  -f CMakeFiles\cmTC_80597.dir\build.make CMakeFiles/cmTC_80597.dir/build
+make.exe[1]: Entering directory 'C:/Users/Arina/c++_3kurs/plus-plus_5sem/task_2/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_80597.dir/CheckIncludeFile.c.obj
+C:\MinGW\bin\gcc.exe    -o CMakeFiles\cmTC_80597.dir\CheckIncludeFile.c.obj -c C:\Users\Arina\c++_3kurs\plus-plus_5sem\task_2\cmake-build-debug\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+C:\Users\Arina\c++_3kurs\plus-plus_5sem\task_2\cmake-build-debug\CMakeFiles\CMakeTmp\CheckIncludeFile.c:1:10: fatal error: pthread.h: No such file or directory
+ #include <pthread.h>
+          ^~~~~~~~~~~
+compilation terminated.
+make.exe[1]: *** [CMakeFiles\cmTC_80597.dir\build.make:77: CMakeFiles/cmTC_80597.dir/CheckIncludeFile.c.obj] Error 1
+make.exe[1]: Leaving directory 'C:/Users/Arina/c++_3kurs/plus-plus_5sem/task_2/cmake-build-debug/CMakeFiles/CMakeTmp'
+make.exe: *** [Makefile:126: cmTC_80597/fast] Error 2
+
+
+

@@ -1,0 +1,4 @@
+"C:\Program Files\CMake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/MinGW/bin/make.exe -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - MinGW Makefiles" C:\Users\Arina\c++_3kurs\plus-plus_5sem\task_2
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Arina/c++_3kurs/plus-plus_5sem/task_2/cmake-build-debug
